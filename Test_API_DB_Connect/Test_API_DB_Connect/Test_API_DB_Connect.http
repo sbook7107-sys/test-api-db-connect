@@ -1,0 +1,6 @@
+@Test_API_DB_Connect_HostAddress = http://localhost:5277
+
+GET {{Test_API_DB_Connect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
